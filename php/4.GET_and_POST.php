@@ -37,7 +37,7 @@
     //          MORE SECURE
     //          No data limit
     //          Cannot bookmark
-    //          GET requests are not cached
+    //          POST requests are not cached
     //          Better for submitting credentials
 
     //echo "{$_POST["username"]} <br>";
